@@ -13,8 +13,9 @@
 Run the development server:
 
 ```
-npm run dev
->or
+npm run dev ```
+or
+```
 yarn dev
 ```
 <hr>
