@@ -23,9 +23,9 @@ yarn dev
 
 To learn more about Next.js, take a look at the following resources:
 
-<a href="https://nextjs.org/docs"> Next.js Documentation </a> - learn about Next.js features and API.
-<a href="https://nextjs.org/learn/basics/create-nextjs-app"> Learn Next.js </a> - an interactive Next.js tutorial.
-You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
+<a href="https://nextjs.org/docs"> Next.js Documentation </a> - learn about Next.js features and API. <br>
+<a href="https://nextjs.org/learn/basics/create-nextjs-app"> Learn Next.js </a> - an interactive Next.js tutorial. <br>
+You can check out <a href="https://github.com/vercel/next.js/"> the Next.js GitHub repository </a> - your feedback and contributions are welcome! <br>
 
 <h2> <strong> License </strong> </h2>
 The source code for the site is licensed under the MIT license, which you can find in the LICENSE.md file.
