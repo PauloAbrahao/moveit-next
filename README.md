@@ -9,7 +9,6 @@
 
 - App created during the 4th <strong> Next Level Week (NLW#4) </strong>🚀
 
-<hr>
 
 <h2> <strong> Getting Started </strong> </h2>
 
