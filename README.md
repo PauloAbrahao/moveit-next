@@ -23,8 +23,8 @@ yarn dev
 
 To learn more about Next.js, take a look at the following resources:
 
-Next.js Documentation - learn about Next.js features and API.
-Learn Next.js - an interactive Next.js tutorial.
+<a href="https://nextjs.org/docs"> Next.js Documentation </a> - learn about Next.js features and API.
+<a href="https://nextjs.org/learn/basics/create-nextjs-app"> Learn Next.js </a> - an interactive Next.js tutorial.
 You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
 
 <h2> <strong> License </strong> </h2>
