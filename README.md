@@ -21,10 +21,10 @@ yarn dev
 
 <h2> <strong> Learn More </strong> </h2>
 
-To learn more about Next.js, take a look at the following resources:
+<strong> To learn more about Next.js, take a look at the following resources: </strong>
 
-<a href="https://nextjs.org/docs"> Next.js Documentation </a> - learn about Next.js features and API. <br>
-<a href="https://nextjs.org/learn/basics/create-nextjs-app"> Learn Next.js </a> - an interactive Next.js tutorial. <br>
+- <a href="https://nextjs.org/docs"> Next.js Documentation </a> - learn about Next.js features and API. <br>
+- <a href="https://nextjs.org/learn/basics/create-nextjs-app"> Learn Next.js </a> - an interactive Next.js tutorial. <br>
 You can check out <a href="https://github.com/vercel/next.js/"> the Next.js GitHub repository </a> - your feedback and contributions are welcome! <br>
 
 <h2> <strong> License </strong> </h2>
