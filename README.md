@@ -19,7 +19,6 @@ npm run dev
 or
 yarn dev
 ```
-<hr>
 
 <h2> <strong> Learn More </strong> </h2>
 
