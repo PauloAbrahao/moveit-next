@@ -14,7 +14,7 @@ Run the development server:
 
 ```
 npm run dev
-`#or`
+>#or
 yarn dev
 ```
 <hr>
