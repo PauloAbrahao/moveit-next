@@ -8,7 +8,7 @@
 
 
 - App created during the 4th <strong> Next Level Week (NLW#4) </strong>🚀
-- The purpose of this app is to use the Pomodoro system, along with a rating system to earn XP and encourage its use. In addition, it is important to take a 5 minute break every 25 minutes and do an exercise, take a relaxed break.
+- The purpose of this app is to use the Pomodoro system, along with a rating system to earn XP and encourage its use. In addition, it is important to take a 5 minute break every 25 minutes and do an exercise, take a relaxed break. &#127987;
 
 
 <h2> <strong> Getting Started </strong> </h2>
