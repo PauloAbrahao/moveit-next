@@ -6,19 +6,25 @@
 
 - App created during the 4th <strong> Next Level Week (NLW#4) </strong>🚀
 
+<hr>
 
-Getting Started
+<h2> <strong> Getting Started </strong> </h2>
+
 Run the development server:
 
 npm run dev
 # or
 yarn dev
-Learn More
+
+<hr>
+
+<h2> <strong> Learn More </strong> </h2>
+
 To learn more about Next.js, take a look at the following resources:
 
 Next.js Documentation - learn about Next.js features and API.
 Learn Next.js - an interactive Next.js tutorial.
 You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
 
-License
+<h2> <strong> License </strong> </h2>
 The source code for the site is licensed under the MIT license, which you can find in the LICENSE.md file.
