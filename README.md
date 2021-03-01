@@ -6,9 +6,19 @@
   
 <h1> <strong> Move.it-next-NLW4 </strong> </h1>
 
+<img src="https://raw.githubusercontent.com/rocketseat-education/nlw-04-reactjs/main/.github/moveit.png" alt="Imagem site">
+
+<hr>
+
+<h2> <strong> 🚀 Tecnologias utilizadas no projeto: </strong> </h2>
+<h2> <strong> 🚀Technologies used in the project: </strong> </h2>
+ - React
+ - Next.js
+ - TypeScript
 
 - App created during the 4th <strong> Next Level Week (NLW#4) </strong>🚀
 - The purpose of this app is to use the Pomodoro system, along with a rating system to earn XP and encourage its use. In addition, it is important to take a 5 minute break every 25 minutes and do an exercise, take a relaxed break. &#127987;
+- O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
 
 
 <h2> <strong> Getting Started </strong> </h2>
