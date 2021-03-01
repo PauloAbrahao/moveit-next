@@ -6,7 +6,7 @@
   
 <h1> <strong> Move.it-next-NLW4 </strong> </h1>
 
-<img src="![localhost_3000_](https://user-images.githubusercontent.com/70414436/109542291-a3206800-7aa3-11eb-8207-7ed7155864b0.png)
+<img src="![localhost_3000_](https://user-images.githubusercontent.com/70414436/109542391-c0edcd00-7aa3-11eb-936c-00ea516fe9ba.png)
 " alt="Imagem site">
 
 <hr>
