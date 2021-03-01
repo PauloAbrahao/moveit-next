@@ -6,7 +6,8 @@
   
 <h1> <strong> Move.it-next-NLW4 </strong> </h1>
 
-<img src="https://raw.githubusercontent.com/rocketseat-education/nlw-04-reactjs/main/.github/moveit.png" alt="Imagem site">
+<img src="![localhost_3000_](https://user-images.githubusercontent.com/70414436/109542291-a3206800-7aa3-11eb-8207-7ed7155864b0.png)
+" alt="Imagem site">
 
 <hr>
 
